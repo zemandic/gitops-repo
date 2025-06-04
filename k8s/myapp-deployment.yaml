@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: zemandic/myapp:latest
+        image: zemandic/myapp:v18
         ports:
         - containerPort: 3000
